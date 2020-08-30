@@ -32,7 +32,7 @@ education:
     - course: BSc in Computing Science
       institution: Simon Fraser University
       year: ""
-email: ""
+email: kbcheng@ncsu.edu
 user_groups:
   - Researchers
   - Visitors
