@@ -16,10 +16,10 @@ interests:
   - Artificial Intelligence
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: "#contact"
   - link: https://github.com/kelkelcheng
-    icon_pack: ai
+    icon_pack: fab
     icon: github
   - icon: cv
     icon_pack: ai
