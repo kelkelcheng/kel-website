@@ -16,11 +16,14 @@ interests:
   - Artificial Intelligence
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fab
     link: "#contact"
   - link: https://github.com/kelkelcheng
     icon_pack: ai
     icon: github
+  - icon: cv
+    icon_pack: ai
+    link: files/cv_kel.pdf
 education:
   courses:
     - course: PhD student in Computer Vision
@@ -37,4 +40,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Kelvin Cheng is currently a Ph.D. student in North Carolina State University supervised by Professor Tianfu Wu.
+Kelvin Cheng is currently a Ph.D. student at North Carolina State University supervised by Professor Tianfu Wu.
